@@ -69,7 +69,7 @@ public class BinnaryTree<K extends Comparable<K>,V> {
 		
 	}
 	
-	public void inOrderTraverseTree(Node<String, ArrayList<String>> focusNode) { // metodo apra atravesar el arbol en inOrder 
+	public void inOrderTraverseTree(Node<String, ArrayList<String>> focusNode) { // metodo para atravesar el arbol en inOrder 
 		
 		if(focusNode != null) {
 			
